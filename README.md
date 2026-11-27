@@ -53,12 +53,15 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
