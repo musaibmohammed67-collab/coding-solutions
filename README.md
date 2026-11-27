@@ -47,3 +47,18 @@
 *Last updated: 2026-11-20* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/musaibmohammed67-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
+<!---LeetCode Topics End-->
